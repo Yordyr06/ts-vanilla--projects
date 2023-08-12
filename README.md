@@ -1,3 +1,3 @@
-# ts-vanilla-projects
+# ts-vanilla--projects
 
 🚧 -- building
